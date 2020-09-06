@@ -4,16 +4,16 @@
 
 <i>A Maze Solving Line Follower Using Arduino</i>
 
-<a href="https://github.com/cheiio/mazeSolver/stargazers"><img src="https://img.shields.io/github/stars/cheiio/mazeSolver" alt="Stars Badge"/></a>
-<a href="https://github.com/cheiio/mazeSolver/network/members"><img src="https://img.shields.io/github/forks/cheiio/mazeSolver" alt="Forks Badge"/></a>
-<a href="https://github.com/cheiio/mazeSolver/pulls"><img src="https://img.shields.io/github/issues-pr/cheiio/mazeSolver" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/cheiio/mazeSolver/issues"><img src="https://img.shields.io/github/issues/cheiio/mazeSolver" alt="Issues Badge"/></a>
-<a href="https://github.com/cheiio/mazeSolver/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cheiio/mazeSolver?color=2b9348"></a>
-<a href="https://github.com/cheiio/mazeSolver/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cheiio/mazeSolver?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/stargazers"><img src="https://img.shields.io/github/stars/eagleanurag/Open-Source-mazeSolver" alt="Stars Badge"/></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/network/members"><img src="https://img.shields.io/github/forks/eagleanurag/Open-Source-mazeSolver" alt="Forks Badge"/></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/pulls"><img src="https://img.shields.io/github/issues-pr/eagleanurag/Open-Source-mazeSolver" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/issues"><img src="https://img.shields.io/github/issues/eagleanurag/Open-Source-mazeSolver" alt="Issues Badge"/></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/eagleanurag/Open-Source-mazeSolver?color=2b9348"></a>
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/blob/master/LICENSE"><img src="https://img.shields.io/github/license/eagleanurag/Open-Source-mazeSolver?color=2b9348" alt="License Badge"/></a>
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://www.youtube.com/user/Sapmcool"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/cheiio/mazeSolver.svg" alt="Hits Badge"/> -->
+<!-- <img src="http://hits.dwyl.com/eagleanurag/Open-Source-mazeSolver.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <br>
 <i>Loved the project? Please consider giving a Star ⭐️ to help it improve!</i>
@@ -24,14 +24,14 @@
 
 # mazeSolver
 
-<a href="https://github.com/cheiio/mazeSolver">
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver">
   <img align="right" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 </a>
 
 This Git contains the 
-- Arduino Project Source  https://github.com/cheiio/mazeSolver/tree/master/Arduino_src
-- Eagle Source for PCB board  https://github.com/cheiio/mazeSolver/tree/master/Laberinto
-- SolidWorks files of parts to be printed  https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files
+- Arduino Project Source  https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Arduino_src
+- Eagle Source for PCB board  https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Laberinto
+- SolidWorks files of parts to be printed  https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Maze_Solver/files
 
 This is the arduino program running ont he maze solver project viewed in http://www.thingiverse.com/thing:1690543
 You need the PID_v1 library fot arduino to make irt run
@@ -69,15 +69,15 @@ It uses a Arduino Leonardo and a custom made shield.
 ## CAD Files
 
 </a>
-<a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Maze_Solver/files/" >
   <img align="center" width="300" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813365-3ccf9f80-ec50-11ea-9bcc-7884405e6d7f.JPG" />
 </a>
 </a>
-<a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Maze_Solver/files/" >
   <img align="center" width="225" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91822809-ebc2aa00-ec55-11ea-94d6-0c4f6b44d20c.gif" />
 </a>
 </a>
-<a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
+<a href="https://github.com/eagleanurag/Open-Source-mazeSolver/tree/master/Maze_Solver/files/" >
   <img align="center" width="300" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 </a>
 
