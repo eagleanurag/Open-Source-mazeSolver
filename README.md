@@ -44,9 +44,9 @@ It uses a Arduino Leonardo and a custom made shield.
 
 ***<details><summary>Click Me For Materials!<img height="45" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
   
-* Arduino Leonardo
-* L293D
-* Piezo Buzzer
+* Arduino Leonardo (https://amzn.to/322FSV8)
+* L293D (https://amzn.to/3lVAmM7)
+* Piezo Buzzer (https://amzn.to/338DKKQ)
 * QTR-1RC Reflectance Sensor (2-Pack) x 2 (https://www.pololu.com/product/2459)
 * QTR-8A Reflectance Sensor Array (Only the cutted 2 sensor at the left) https://www.pololu.com/product/960
 * 75:1 Micro Metal Gearmotor HPCB 6V (https://www.pololu.com/product/3064)
